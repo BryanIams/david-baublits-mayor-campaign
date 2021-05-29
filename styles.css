@@ -19,3 +19,11 @@ main > h1 {
   text-align: center;
   font-size: 3.5em;
 }
+
+.header-text {
+  /* background: rgb(192,25,25);
+  background: linear-gradient(90deg, rgba(192,25,25,1) 50%, rgba(255,255,255,1) 100%);
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text; */
+  color: #CCCDDD;
+}
