@@ -27,3 +27,7 @@ main > h1 {
   -webkit-background-clip: text; */
   color: #CCCDDD;
 }
+
+.section {
+  padding: 40px 0;
+}
